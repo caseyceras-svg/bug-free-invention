@@ -1,0 +1,61 @@
+<!DOCTYPE html><html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>KeyPaws Oficial - Links</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background: #0f3f1f;
+      color: white;
+      text-align: center;
+    }
+    .container {
+      max-width: 480px;
+      margin: auto;
+      padding: 20px;
+    }
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 20px;
+      color: #7CFFA5;
+      font-weight: bold;
+    }
+    .btn {
+      display: block;
+      background: #1bbf54;
+      color: white;
+      padding: 15px;
+      margin: 12px 0;
+      border-radius: 12px;
+      text-decoration: none;
+      font-size: 1.2rem;
+      transition: 0.2s;
+    }
+    .btn:hover {
+      background: #22d463;
+    }
+    .avatar {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 4px solid #7CFFA5;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>KEYPAWS OFICIAL</h1><a class="btn" href="https://www.tiktok.com/@key_paws" target="_blank">TikTok</a>
+<a class="btn" href="https://www.instagram.com/key_paws" target="_blank">Instagram</a>
+<a class="btn" href="https://x.com/Key_Paws" target="_blank">Twitter / X</a>
+<a class="btn" href="https://www.facebook.com/profile.php?id=61581798958468" target="_blank">Facebook</a>
+<a class="btn" href="https://kick.com/KeyPaws" target="_blank">Kick</a>
+<a class="btn" href="https://discord.com/users/1428829981030482042" target="_blank">Discord</a>
+
+  </div>
+</body>
+</html>
